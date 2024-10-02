@@ -24,3 +24,4 @@ Users will be able to:
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
+- [LIVE DEMO](https://kan-ban-board-omega.vercel.app/)
